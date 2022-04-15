@@ -1,6 +1,5 @@
 # SMU - MSDS 6306: Doing Data Science - Case Study 01
 # Southern Methodist University
-# TO BE FIXED
 
 ## Author
 - Duy Nguyen
