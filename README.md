@@ -2,30 +2,29 @@
 # Southern Methodist University
 # TO BE FIXED
 
-## Team Members
-- Garrett Shankel
+## Author
 - Duy Nguyen
 
-### Purpose of Our Project
-The CEO and CFO of a major brewing company have provided our team with a dataset for nationwide statistics of beers and breweries. Our job as data scientists are to perform a thorough investigation into this data. 
+### Purpose of The Project
+The CEO and CFO of Frito Lay have provided me with a dataset for the statistics of their employees. They have commissioned me to identify the top factors that lead to employee attrition and evidence provided by analysis to back them up. They are also interested in trends within the dataset, as well as machine learning models to predict attrition and monthly income of their employees.
 
 Things we have found include but are not limited to: 
-- Outlining the data through graphical means
-- Mapping the correlations between ABV and IBU
-- Investigating the brewery density per state
+- Numerical and categorical correlations within the dataset
+- Top factors that negatively influence attrition
+- Top factors that negatively influence monthly income
 
-To cap off the investigation, we took an in-depth look into the distributions of the top 10 beers styles to provide an incentive for market expansion.
+To close off the analysis, I will provide 2 models that I believe rank amongst the best when predicting employee attitrion and mothnly income that anyone can use for their organizations.
 
-Attached at the end of the PowerPoint deck is our Youtube presentation links. 
+Attached at the end of the PowerPoint deck is my Youtube presentation link. 
 
 ### Codebook
 1. `doc` - Contains the requirements given by the sponsors
-   - `Case_Study_01.pdf` - Contains the description
-   - `CaseStudy1_Rubric.pdf`- Contains the grading rubric including the percentage of each detailed requirements
+   - `CaseStudy2.pdf` - Contains the description
 2. `src` - Contains the source files
-   - `EDA.Rmd` - Contains the source code for the Exploratory Data analysis
-   - `EDA.html` - Contains the supplemental plots and graphs as well as our answers to the 7 questions
-   - `Beers.csv` - Contains data on 2410 craft canned beers
-   - `Breweries.csv` - Contains data for 558 breweries in the United States 
-3. `Duy & Garrett - Case Study 1.pptx` - This is the PowerPoint deck which serves as the core presentation of our project
-4. `README.md` - This is the file that you're reading. Contains the purpose and codebook of our project
+   - `Analysis.Rmd` - Contains the source code for the employee attrition analysis
+   - `Analysis.html` - Contains the supplemental plots to solidify evidence and findings
+   - `CaseStudy2-data.csv` - Contains data for 870 employees' information provided by Frito Lay
+   - `CaseStudy2CompSet-No-Attrition.csv` - Contains data for 300 employees that do not have the "Attition" labels
+   - `CaseStudy2CompSet-No-Salary.csv` - Contains data for 300 employees that do not have the "MonthlyIncome"
+3. `Duy - Case Study 2.pptx` - This is the PowerPoint deck which serves as the core presentation of my project
+4. `README.md` - This is the file that you're reading. Contains the purpose and codebook of my project
