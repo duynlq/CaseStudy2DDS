@@ -1,4 +1,4 @@
-# SMU - MSDS 6306: Doing Data Science - Case Study 01
+# SMU - MSDS 6306: Doing Data Science - Case Study 2
 # Southern Methodist University
 
 ## Author
