@@ -5,6 +5,19 @@ date: "4/10/2022"
 output: html_document
 ---
 
+## Abstract
+The CEO and CFO of Frito Lay have provided me with a dataset for the statistics of their employees. They have commissioned me to identify the top factors that lead to employee attrition and evidence provided by analysis to back them up. They are also interested in trends within the dataset, as well as machine learning models to predict attrition and monthly income of their employees.
+
+Things we have found include but are not limited to:
+
+- Numerical and categorical correlations within the dataset
+- Top factors that negatively influence attrition
+- Top factors that negatively influence monthly income
+
+To close off the analysis, I will provide 2 models that I believe rank amongst the best when predicting employee attitrion and mothnly income that anyone can use for their organizations.
+
+Click here for presentation!
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
