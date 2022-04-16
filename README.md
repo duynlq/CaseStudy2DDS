@@ -5,6 +5,8 @@
 - Duy Nguyen
 
 ### [GitHub Page](https://epicduy.github.io/Attritrion-Analysis.html)
+### [YouTube Link](https://www.youtube.com/watch?v=uuPV2oC6M5s)
+
 
 ### Purpose of The Project
 The CEO and CFO of Frito Lay have provided me with a dataset for the statistics of their employees. They have commissioned me to identify the top factors that lead to employee attrition and evidence provided by analysis to back them up. They are also interested in trends within the dataset, as well as machine learning models to predict attrition and monthly income of their employees.
